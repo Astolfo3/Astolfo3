@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════╗
-  ║  ✨ astolfo · soft systems, pink everything,             ║
-  ║              zero-compromise cuteness                    ║
+  ║  astolfo · soft systems, pink everything,                ║
+  ║            zero-compromise cuteness                      ║
   ╚══════════════════════════════════════════════════════════╝
 -->
 
@@ -85,17 +85,17 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 
 <br/>
 
-## 🧭 what i'm about
+## what i'm about
 
 | pillar | meaning |
 |--------|---------|
-| **🦀 safe** | memory-safe, type-driven, reliable systems |
-| **⚡ fast** | zero-cost abstractions, minimal overhead, maximal throughput |
+| **safe** | memory-safe, type-driven, reliable systems |
+| **fast** | zero-cost abstractions, minimal overhead, maximal throughput |
 | **🌸 cute** | readable code, pretty terminals, welcoming interfaces |
 
 <br/>
 
-## 🛠️ stack & tools
+## stack & tools
 
 | domain | tech |
 |--------|------|
@@ -103,12 +103,12 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 | **editor** | Neovim — pastel config, pink everything |
 | **terminal** | Alacritty with blur & custom colorscheme |
 | **shell** | Fish — sparkly prompt, all lowercase, lots of `:3` |
-| **OS** | Arch Linux 🐧 |
+| **OS** | Arch Linux |
 | **font** | Nerd Fonts — ligatures, glyphs, the works |
 
 <br/>
 
-## 🌟 philosophy
+## philosophy
 
 1. **readability first** — code is for humans first, machines second. if it's not readable, it's not done.
 2. **adorable by default** — UIs, terminals, docs, repos — everything deserves a touch of cute.
@@ -118,36 +118,36 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 
 <br/>
 
-## 📊 github stats
+## github stats
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=astolfo-md&show_icons=true&icon_color=FF8FAB&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB&hide_border=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=Astolfo3&show_icons=true&icon_color=FF8FAB&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB&hide_border=false"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=astolfo-md&show_icons=true&icon_color=FF6B91&title_color=FF6B91&text_color=4a4e69&bg_color=ffffff&border_color=FF6B91&hide_border=false"
+      srcset="https://github-readme-stats.vercel.app/api?username=Astolfo3&show_icons=true&icon_color=FF6B91&title_color=FF6B91&text_color=4a4e69&bg_color=ffffff&border_color=FF6B91&hide_border=false"
     />
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=astolfo-md&show_icons=true&icon_color=FF8FAB&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB&hide_border=false"
+      src="https://github-readme-stats.vercel.app/api?username=Astolfo3&show_icons=true&icon_color=FF8FAB&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB&hide_border=false"
       alt="GitHub stats"
     />
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=astolfo-md&layout=compact&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfo3&layout=compact&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=astolfo-md&layout=compact&title_color=FF6B91&text_color=4a4e69&bg_color=ffffff&border_color=FF6B91"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfo3&layout=compact&title_color=FF6B91&text_color=4a4e69&bg_color=ffffff&border_color=FF6B91"
     />
     <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=astolfo-md&layout=compact&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfo3&layout=compact&title_color=FF8FAB&text_color=cdd6f4&bg_color=1e1e2e&border_color=FF8FAB"
       alt="Top languages"
     />
   </picture>
@@ -155,38 +155,38 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 
 <br/>
 
-## 📁 projects
+## projects
 
 > *nothing publicly released yet — but i'm building toward something :3*
 
 | project | status | description |
 |---------|--------|-------------|
-| *coming soon* | 🔨 building | cute low-level tooling, Rust crates, pastel terminal things |
+| *coming soon* | building | cute low-level tooling, Rust crates, pastel terminal things |
 
 Stay tuned 🌸 — good things come to those who `cargo build --release`.
 
 <br/>
 
-## 🎨 aesthetic palette
+## aesthetic palette
 
 ```
   🌸 #FFB7C9  ·  🎀 #FF8FAB  ·  💗 #FF6B91
-  🤍 #FFFFFF  ·  🪨 #4A4E69  ·  🌿 lavender accents
+  #FFFFFF     ·  #4A4E69     ·  lavender accents
 ```
 
 <br/>
 
-## 🐾 let's connect
+## let's connect
 
 <p align="center">
-  <a href="https://github.com/astolfo-md">
+  <a href="https://github.com/Astolfo3">
     <img src="https://img.shields.io/badge/github-FF8FAB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/-not%20on%20social-cccccc?style=for-the-badge&logo=&logoColor=white" alt="not on social media"/>
 </p>
 
 <p align="center">
-  <i>not active on social media — vibing solo for now ✨</i>
+  <i>not active on social media — vibing solo for now</i>
 </p>
 
 <br/>
@@ -204,4 +204,3 @@ Stay tuned 🌸 — good things come to those who `cargo build --release`.
 <p align="center">
   <sub>🌸 <i>safe · fast · cute</i> — the three pillars</sub>
 </p>
-# Astolfo3
