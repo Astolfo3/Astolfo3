@@ -157,13 +157,11 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 
 ## projects
 
-> *nothing publicly released yet — but i'm building toward something :3*
-
 | project | status | description |
 |---------|--------|-------------|
-| *coming soon* | building | cute low-level tooling, Rust crates, pastel terminal things |
+| 🌸 [Bloom](https://github.com/Astolfo3/Bloom) | active | cute low-level tooling & Rust crates — pastel terminal things with personality |
 
-Stay tuned 🌸 — good things come to those who `cargo build --release`.
+More coming soon 🌸 — good things come to those who `cargo build --release`.
 
 <br/>
 
