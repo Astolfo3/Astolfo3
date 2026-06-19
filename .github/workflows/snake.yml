@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────────────────────
+#  snake.yml
+#  Generates a cute pink contribution snake animation :3
+# ─────────────────────────────────────────────────────────────
+
+name: 🐍 generate contribution snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🐍 generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Astolfo3
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+
+      - name: 📦 push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: dist
+          publish_branch: output
+          user_name: astolfo-bot :3
+          user_email: bot@astolfo.dev
+          commit_message: "🐍 update contribution snake"
+          github_token: ${{ secrets.GH_PAT }}

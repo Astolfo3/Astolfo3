@@ -156,6 +156,27 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 
 <br/>
 
+## 🏆 trophies
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-trophy.vercel.app/?username=Astolfo3&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7&amp;title_color=FF8FAB&amp;text_color=cdd6f4"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-trophy.vercel.app/?username=Astolfo3&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7&amp;title_color=FF6B91&amp;text_color=4a4e69"
+    />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Astolfo3&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7"
+      alt="GitHub Trophies"
+    />
+  </picture>
+</p>
+
+<br/>
+
 ## projects
 
 | project | status | description |
@@ -258,6 +279,29 @@ More coming soon 🌸 — good things come to those who `cargo build --release`.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⣾⡃⠀⠀⠄⢈⠐⠠⠐⠀⣼⣿⣿⣿⢿⣿⣿⡅⡸⠄⠀⠀⠀⠀⠀⠘⢦⢄⠩⡜⢣⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠃⠘⡌⠆⠠⠁⠀⠀⠀⠀⠀⠐⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⢀⡿⠀⠀⠀⡀⠂⠈⠄⠡⢐⣿⣿⣟⣿⣿⣿⠯⢀⠟⠀⠀⠀⠀⠀⠀⠀⠈⠈⠴⡈⢃⠺⣤⠀⠀⠀⠀⠀⠀⠀⡜⠀⠀⢘⠜⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 </pre>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Astolfo3&amp;color=FF8FAB&amp;style=flat-square&amp;label=🌸+visitors" alt="Profile views" />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Astolfo3/Astolfo3/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Astolfo3/Astolfo3/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="🌸 pastel contribution snake"
+      src="https://raw.githubusercontent.com/Astolfo3/Astolfo3/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 
