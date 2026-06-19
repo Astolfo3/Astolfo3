@@ -136,6 +136,7 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
       alt="GitHub stats"
     />
   </picture>
+  
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
