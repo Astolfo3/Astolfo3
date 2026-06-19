@@ -175,7 +175,7 @@ More coming soon 🌸 — good things come to those who `cargo build --release`.
 <br/>
 
 ## let's connect
-
+<a href="me.txt"> />
 <p align="center">
   <a href="https://github.com/Astolfo3">
     <img src="https://img.shields.io/badge/github-FF8FAB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
