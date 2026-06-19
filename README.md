@@ -162,14 +162,14 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Astolfo3&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7&amp;title_color=FF8FAB&amp;text_color=cdd6f4"
+      srcset="https://github-trophies.vercel.app/?username=Astolfo3&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Astolfo3&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7&amp;title_color=FF6B91&amp;text_color=4a4e69"
+      srcset="https://github-trophies.vercel.app/?username=Astolfo3&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6"
     />
     <img
-      src="https://github-profile-trophy.vercel.app/?username=Astolfo3&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7"
+      src="https://github-trophies.vercel.app/?username=Astolfo3&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=6"
       alt="GitHub Trophies"
     />
   </picture>
