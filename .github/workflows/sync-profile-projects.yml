@@ -1,0 +1,51 @@
+# ─────────────────────────────────────────────────────────────
+#  sync-profile-projects.yml
+#  Automatically checks for new GitHub repos and adds them
+#  to the projects table in README.md for your profile! :3
+# ─────────────────────────────────────────────────────────────
+
+name: 🌸 sync profile projects
+
+on:
+  # Run weekly on Sunday at 4:00 AM
+  schedule:
+    - cron: '0 4 * * 0'
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Also run when pushing to main (in case you wanna test)
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/sync-profile-projects.sh'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🔧 install jq
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq jq
+
+      - name: 🔄 sync new projects to README table
+        run: chmod +x scripts/sync-profile-projects.sh && ./scripts/sync-profile-projects.sh
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+      - name: 📝 commit & push any changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "astolfo-bot :3"
+            git config user.email "bot@astolfo.dev"
+            git add README.md
+            git commit -m "🌸 auto-sync: add new projects to profile README"
+            git push
+          else
+            echo "🌸 no changes — everything's up to date!"
+          fi

@@ -161,6 +161,7 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 | project | status | description |
 |---------|--------|-------------|
 | 🌸[Bloom](https://github.com/Astolfo3/Bloom) | active | cute low-level tooling & Rust crates — pastel terminal things with personality |
+| 🌸[pinkfetch](https://github.com/Astolfo3/pinkfetch) | active | Cute Fetch written in rust :3 |
 
 More coming soon 🌸 — good things come to those who `cargo build --release`.
 
