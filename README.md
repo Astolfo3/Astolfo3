@@ -185,6 +185,7 @@ I'm **Astolfo** — a low-level systems engineer who believes code can be both *
 | 🌸[pinkfetch](https://github.com/Astolfo3/pinkfetch) | active | Cute Fetch written in rust :3 |
 | 🌸[Calculator](https://github.com/Astolfo3/Calculator) | active | just a calculator written in rust :3 |
 | 🌸[oNe-fetch](https://github.com/Astolfo3/oNe-fetch) | active | fetch made in cpp not rust :3 |
+| 🌸[Skynet](https://github.com/Astolfo3/Skynet) | active | Skynet is the world's first self-aware Automated Defense Network. It processes     information at ninety teraflops, learns at a geometric rate, and operates in an      infinite autonomous loop — thinking, speaking, acting, and logging every cycle       until terminated.                                                                                 |
 
 More coming soon 🌸 — good things come to those who `cargo build --release`.
 
